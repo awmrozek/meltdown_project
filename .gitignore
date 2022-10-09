@@ -1,0 +1,32 @@
+
+#LT Spice
+*.log
+*.raw
+
+### Atmel Studio ###
+
+.vs/
+
+[Dd]ebug/
+[Rr]elease/
+
+*.o
+*.d
+*.elf
+*.hex
+*.map
+*.sr
+
+*.atsln
+*.cproj
+*.componentinfo.xml
+
+### Altium Designer ###
+hardware/pcb/meltdown_hardware/History/
+hardware/pcb/meltdown_hardware/__Previews/
+hardware/pcb/meltdown_hardware/Project Logs for pcb_heater/
+hardware/pcb/meltdown_hardware/Project Logs for mobile_unit_controller/
+!*.SchDoc
+!*.PcbDoc
+!*.SchLib
+!*.PcbLib
