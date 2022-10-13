@@ -22,11 +22,9 @@
 *.componentinfo.xml
 
 ### Altium Designer ###
-hardware/pcb/meltdown_hardware/History/
-hardware/pcb/meltdown_hardware/__Previews/
+History/
+__Previews/
+*.PrjPcbStructure
+
 hardware/pcb/meltdown_hardware/Project Logs for pcb_heater/
 hardware/pcb/meltdown_hardware/Project Logs for mobile_unit_controller/
-!*.SchDoc
-!*.PcbDoc
-!*.SchLib
-!*.PcbLib
