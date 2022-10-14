@@ -167,6 +167,31 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CUOVSYXS
 
+[Document8]
+DocumentPath=solder_pen.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=UOHFEEZY
+
+[Parameter1]
+Name=Revision
+Value=0.1
+
+[Parameter2]
+Name=Team
+Value=JC
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -877,6 +902,7 @@ Type116=1
 Type117=1
 Type118=1
 Type119=1
+Type120=1
 
 [Difference Levels]
 Type1=1
