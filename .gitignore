@@ -28,3 +28,8 @@ __Previews/
 
 hardware/pcb/meltdown_hardware/Project Logs for pcb_heater/
 hardware/pcb/meltdown_hardware/Project Logs for mobile_unit_controller/
+
+### STM32 Cube IDE ###
+
+.metadata/
+.settings/
