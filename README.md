@@ -1,5 +1,8 @@
-# meltdown_project
-Soldering station
+# Meltdown Project
+The ultimate soldering station, powered by cutting edge Real Intelligence (RI) algorithms.. and some AI.
+
+## Docs
+[Schematic PDF](hardware/pcb/meltdown_hardware/Schematics/Meltdown%20Project%20Schematic.PDF)
 
 ## Info
 - Solder pen: WMRPMS
