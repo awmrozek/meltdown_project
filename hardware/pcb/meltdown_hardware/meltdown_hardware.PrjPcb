@@ -83,23 +83,6 @@ GenerateClassCluster=0
 DocumentUniqueId=VXGPJPUK
 
 [Document3]
-DocumentPath=schematic.OutJob
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document4]
 DocumentPath=1_Power.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -116,7 +99,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZDBUTYSG
 
-[Document5]
+[Document4]
 DocumentPath=2_FTDI.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -133,7 +116,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DARYACAH
 
-[Document6]
+[Document5]
 DocumentPath=3_MCU.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -150,7 +133,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CUOVSYXS
 
-[Document7]
+[Document6]
 DocumentPath=4_Solder-Pen.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -167,13 +150,38 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UOHFEEZY
 
+[Document7]
+DocumentPath=Meltdown Project.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [Parameter1]
-Name=Revision
-Value=0.1
+Name=
+Value=
 
 [Parameter2]
+Name=Title
+Value=Meltdown Project
+
+[Parameter3]
 Name=Team
 Value=JC
+
+[Parameter4]
+Name=Revision
+Value=0.1
 
 [Configuration1]
 Name=Sources
@@ -184,6 +192,9 @@ Variant=[No Variations]
 OutputJobsCount=0
 ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
+
+[Generic_EDE]
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
