@@ -167,21 +167,34 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document8]
+DocumentPath=3_MCU.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [Parameter1]
-Name=
-Value=
+Name=Revision
+Value=0.1
 
 [Parameter2]
-Name=Title
-Value=Meltdown Project
-
-[Parameter3]
 Name=Team
 Value=JC
 
-[Parameter4]
-Name=Revision
-Value=0.1
+[Parameter3]
+Name=Title
+Value=Meltdown Project
 
 [Configuration1]
 Name=Sources
