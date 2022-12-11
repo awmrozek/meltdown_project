@@ -26,8 +26,8 @@ History/
 __Previews/
 *.PrjPcbStructure
 
-hardware/pcb/meltdown_hardware/Project Logs for pcb_heater/
-hardware/pcb/meltdown_hardware/Project Logs for mobile_unit_controller/
+hardware/pcb/meltdown_hardware/Project\ Logs\ *
+hardware/pcb/meltdown_hardware/Project\ Outputs\ *
 
 ### STM32 Cube IDE ###
 
