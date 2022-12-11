@@ -201,6 +201,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for meltdown_hardware\Design Rule Check - meltdown_hardware.html
+DItemRevisionGUID=
+
 [Parameter1]
 Name=Revision
 Value=0.1
