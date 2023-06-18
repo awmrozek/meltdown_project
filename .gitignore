@@ -29,6 +29,9 @@ __Previews/
 hardware/pcb/meltdown_hardware/Project\ Logs\ *
 hardware/pcb/meltdown_hardware/Project\ Outputs\ *
 
+hardware/pcb/meltdown_interface/Project\ Logs\ *
+hardware/pcb/meltdown_interface/Project\ Outputs\ *
+
 ### STM32 Cube IDE ###
 
 .metadata/
