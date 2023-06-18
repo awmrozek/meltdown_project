@@ -208,6 +208,86 @@ DocumentUniqueId=
 DocumentPath=Project Outputs for meltdown_hardware\Design Rule Check - meltdown_hardware.html
 DItemRevisionGUID=
 
+[GeneratedDocument2]
+DocumentPath=Project Outputs for meltdown_hardware\NC Drill\meltdown_hardware-RoundHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for meltdown_hardware\NC Drill\meltdown_hardware-SlotHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for meltdown_hardware\NC Drill\meltdown_hardware.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for meltdown_hardware\Gerber\meltdown_hardware.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for meltdown_hardware\Gerber\meltdown_hardware.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for meltdown_hardware\Gerber\meltdown_hardware.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for meltdown_hardware\Gerber\meltdown_hardware.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for meltdown_hardware\Gerber\meltdown_hardware.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for meltdown_hardware\Gerber\meltdown_hardware.GM
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for meltdown_hardware\Gerber\meltdown_hardware.GP1
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for meltdown_hardware\Gerber\meltdown_hardware.GP2
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for meltdown_hardware\Gerber\meltdown_hardware.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for meltdown_hardware\Gerber\meltdown_hardware.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for meltdown_hardware\Gerber\meltdown_hardware.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for meltdown_hardware\Gerber\meltdown_hardware.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for meltdown_hardware\DRC\meltdown_hardware.html
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for meltdown_hardware\ERC\meltdown_hardware.html
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for meltdown_hardware\NC Drill\meltdown_hardware.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for meltdown_hardware\Gerber\meltdown_hardware.REP
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for meltdown_hardware\Gerber\meltdown_hardware.RUL
+DItemRevisionGUID=
+
 [Parameter1]
 Name=Revision
 Value=0.1
